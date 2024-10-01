@@ -1,0 +1,16 @@
+MainMenu {
+  visibility: hidden;
+}
+
+footer {
+  visibility: hidden;
+}
+
+header {
+  visibility: hidden;
+}
+
+body {
+  background-color: #2bec58;
+  /* Change this to your desired color */
+}

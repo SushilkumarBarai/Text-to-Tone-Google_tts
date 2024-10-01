@@ -1,0 +1,11 @@
+[
+    {"name": "Default", "id": ""},
+    {"name": "Interactive Voice Response (IVR) system", "id": "telephony-class-application"},
+    {"name": "Smart watch or wearable", "id": "wearable-class-device"},
+    {"name": "Smartphone", "id": "handset-class-device"},
+    {"name": "Headphones or earbuds", "id": "headphone-class-device"},
+    {"name": "Small home speaker", "id": "small-bluetooth-speaker-class-device"},
+    {"name": "Smart home speaker", "id": "medium-bluetooth-speaker-class-device"},
+    {"name": "Home entertainment system or smart TV", "id": "large-home-entertainment-class-device"},
+    {"name": "Car speaker", "id": "large-automotive-class-device"}
+]

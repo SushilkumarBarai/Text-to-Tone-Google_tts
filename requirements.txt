@@ -1,0 +1,7 @@
+streamlit
+Pillow
+py_dotenv
+google-cloud-texttospeech
+langcodes
+language_data
+pandas
